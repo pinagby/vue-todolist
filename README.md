@@ -2,8 +2,8 @@
 ## 安装
 npm install <br>
 npm run dev <br>
-npm run <br>
+npm run buid <br>
 
 ## 技术点
-1、Vue2 <br>
-2、indexDB <br>
+Vue2 <br>
+indexDB <br>
